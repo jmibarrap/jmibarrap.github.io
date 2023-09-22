@@ -1,2 +1,2 @@
-# JoseMariaIbarra
+# José María Ibarra
 Code portfolio
